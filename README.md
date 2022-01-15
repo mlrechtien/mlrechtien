@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 --> 
  🔭 I’m currently working on my M.S. in Business Analytics from Nebraska #GoBigRed.\
- 🌱 I’m currently learning R, SQL, Git(and Hub), Market Intelligence, Markdown\
+ 🌱 I’m currently learning R, SQL, Git(and Hub), Python, Market Intelligence, Markdown\
  👯 I’m looking to collaborate on data projects to expand on my knowledge.\
  🤔 I’m looking for help with finding practical projects.\
  💬 Ask me about Tulsa sports.\
